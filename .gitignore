@@ -1,0 +1,12 @@
+﻿# Local environment and credentials
+.env
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
